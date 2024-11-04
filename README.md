@@ -28,6 +28,7 @@ Verwende eine einfache Datenbank für Filme, Bewertungen und Kommentare (z.B. SQ
    - Möglichkeit, einen vorhandenen Film zu löschen.
    - Verwende CSS oder ein CSS-Framework (wie Tailwind CSS) für ein ansprechendes Design.
    - Die App sollte responsive sein und auf verschiedenen Bildschirmgrößen gut aussehen.
+   - Ich kann in einem Suchfeld nach ähnlichen Titeln suchen. Die Suchvorschläge sollen von einem LLM kommen.
 4. (Optional) Möglichkeit, eine Wunschliste zu erstellen.
 
 ## Hinweise
