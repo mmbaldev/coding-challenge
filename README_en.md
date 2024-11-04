@@ -28,6 +28,7 @@ Use a simple database for movies, ratings, and comments (e.g., SQLite, JSON file
    - Ability to delete an existing movie.
    - Use CSS or a CSS framework (like Tailwind CSS) for an appealing design.
    - The app should be responsive and look good on different screen sizes.
+   - I can search for similar titles in a search box. The search suggestions should come from an LLM.
 4. (Optional) Ability to create a wishlist.
 
 ## Notes
