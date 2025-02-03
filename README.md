@@ -20,6 +20,8 @@ Before you begin, ensure you have `npm` installed on your system.
 3. **Environment Variables**:
     - Create a `.env` file in the root directory.
     - Copy the contents from `.env.example` to `.env`.
+    - Run this commad in the terminal with your own openai api key `export OPENAI_API_KEY="your_api_key_here`
+
 
 ## Frontend Setup
 
