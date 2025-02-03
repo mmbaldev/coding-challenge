@@ -1,0 +1,4 @@
+### Node.js ###
+*.sqlite
+node_modules/
+.env
